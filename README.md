@@ -1,6 +1,6 @@
 ## About
 
-I am a **_INSERT ROLE HERE_** at Hack4Impact!
+I am an Academy Member at Hack4Impact!
 
 ## My Profile
 
@@ -13,9 +13,9 @@ I am a **_INSERT ROLE HERE_** at Hack4Impact!
           width="500px"
         />
         <br />
-        <b><i>INSERT NAME</i></b>
+        <b><i>Eesha Barua</i></b>
         <br />
-        <sub><b><i>INSERT ROLE</i></b></sub>
+        <sub><b><i>Academy Member</i></b></sub>
       </a>
     </td>
     </tr>
@@ -23,7 +23,7 @@ I am a **_INSERT ROLE HERE_** at Hack4Impact!
 
 ## Usage
 
-The latest version of this application can be found at my branch named **_INSERT NAME_**.
+The latest version of this application can be found at my branch named eesha-barua-bootcamp.
 
 To setup and run locally:
 
